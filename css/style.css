@@ -277,9 +277,10 @@
 }
 
 #map-canvas1 {
-        width: 1497px;
+        width: 1476px;
 		height: 250px;
 		margin:10px;
+		border: 2px solid #666;
       }
 
 #pano{
