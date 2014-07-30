@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main-wrapper{
+	width:1500px;
+	margin:0px auto;
+	position:relative;
+}
+
+.header-wrapper{
+	width:1500px;
+	background:#353434;
+	overflow:hidden;
+}
+	
+.slider{
+	width:1500px;
+	position:relative;
+}
+
+.content-wrapper{
+	overflow:hidden;
+	width:1281px;
+	background:#f7f7f7;
+	padding-top:98px;
+	padding-left:150px;
+	padding-right:69px;
+}
+
+.testimonials{
+	position:relative;
+	width:1090px;
+	padding-left:205px;
+	padding-right:205px;
+	background:#ffffff;
+}
+
+.image-div{
+	overflow:hidden;
+	background:#3b3b3b;
+	width:1500px;
+}
+
+.signup-div{
+	width:690px;
+	background:#ffffff;
+	padding-top:100px;
+	padding-left:405px;
+	padding-right:405px;
+}
+
+.api-content{
+	overflow:hidden;
+	border-top:2px solid #666;
+	border-bottom:2px solid #666;
+	position: relative;
+	background:#e5e4e4;;
+}
+
+.footer{
+	background:#f7f7f7;
+	border-top: 1px solid #dedede;
+	padding:98px 460px;
+}
+
