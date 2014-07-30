@@ -23,8 +23,8 @@ function initialize() {
 
 
 function calcRoute() {
-  var start = new google.maps.LatLng(27.649395, 85.335827);
-  var end = document.getElementById('address').value;
+  var start = document.getElementById('address').value;
+  var end = new google.maps.LatLng(27.649395, 85.335827);
   var request = {
       origin:start,
       destination:end,
