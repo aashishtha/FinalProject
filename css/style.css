@@ -70,8 +70,10 @@
 .content-div{
 	width:344px;
 	float:left;
-	margin-right:83px;
-	margin-bottom:99px;
+	margin-left:41px;
+	margin-right:41px;
+	margin-top:49px;
+	margin-bottom:49px;
 }
 
 .round-image{
@@ -103,6 +105,7 @@
 }
 
 .content-more{
+	display:block;
 	width:100px;
 	margin-top:20px;
 	font-family:Tahoma, Geneva, sans-serif;
@@ -317,12 +320,17 @@
 
 .footer-title{
 	width:71px;
-	margin:0px auto;
+	margin:0px auto 0px;
+}
+
+.footer-title img{
+	margin-top:16px;
+	margin-bottom:16px;
 }
 
 .footer-text{
 	width:580px;
-	margin:32px auto 0px;
+	margin:16px auto 16px;
 	font-size:17px;
 	opacity:0.8;
 }

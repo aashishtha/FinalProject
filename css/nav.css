@@ -39,12 +39,15 @@
 
 .social-logo{
 	float: right;
-	margin-right:140px;
-	margin-top:23px;
+	margin-left:145px;
+	margin-right:145px;
+	margin-top:22px;
+	margin-bottom:22px;
 }
 
 .social-logo img{
-	margin-right:10px;
+	margin-left:5px;
+	margin-right:5px;
 }
 
 .social-logo img:hover{
